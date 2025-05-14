@@ -138,11 +138,6 @@ We **do not collect or store any personal data**. All activity remains **local t
 
 ---
 
-## 📸 Screenshots
-
-| Camera View | Template Overlay | Final Sketch |
-|-------------|------------------|---------------|
-| ![](screenshots/camera_view.jpg) | ![](screenshots/template_overlay.jpg) | ![](screenshots/final_sketch.jpg) |
 
 ---
 
