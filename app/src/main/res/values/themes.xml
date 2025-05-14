@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.ARDrawing" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Default settings -->
+    </style>
+    
+    <!-- Simple splash screen theme -->
+    <style name="Theme.ARDrawing.Splash" parent="Theme.ARDrawing">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:statusBarColor">@android:color/white</item>
+        <item name="android:navigationBarColor">@android:color/white</item>
+    </style>
+</resources>
